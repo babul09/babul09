@@ -9,7 +9,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=babul09&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babul09&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=babul09&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=babul09&langs_count=4&theme=tokyonight)
 
 ## Tech Stack
 
